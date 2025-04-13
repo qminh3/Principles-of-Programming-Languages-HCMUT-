@@ -1,0 +1,1 @@
+Program([ConstDecl(g,FuncCall(is_even,[IntLiteral(4)]))])

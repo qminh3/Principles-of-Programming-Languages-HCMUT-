@@ -1,0 +1,12 @@
+    
+            func Minh() {
+                if (x > 10) {return; } 
+                if (x > 10) {
+                  return; 
+                } else if (x == 10) {
+                    var h str;
+                } else {
+                    var h ID;
+                }
+            }
+        

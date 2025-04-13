@@ -1,0 +1,5 @@
+
+        func foo() {
+            x.y.z.b.d.s.e.gv.as.sa.sfas.saga.asg.b(a[d(c[a(b[d(x)])])]);
+        }
+        

@@ -1,0 +1,1 @@
+Program([VarDecl(MINH,Id(deptrai),FieldAccess(StructLiteral(ID,[(name,StringLiteral("hello")),(name,StringLiteral("world"))]),b))])

@@ -1,0 +1,1 @@
+Program([ConstDecl(minh30,FuncCall(call,[FieldAccess(Id(minh),quang)]))])

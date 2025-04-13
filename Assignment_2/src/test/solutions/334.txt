@@ -1,0 +1,1 @@
+Program([ConstDecl(c1,FuncCall(ceil,[FloatLiteral(7.2)]))])

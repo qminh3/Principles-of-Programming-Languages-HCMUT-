@@ -1,0 +1,5 @@
+func main() {
+            var str string = "Hello";
+            var len int = str.length();
+            var sub string = str.substring(0, 2);
+        };

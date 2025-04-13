@@ -1,0 +1,5 @@
+
+            func Minh(x int, y int) int {return;}
+            func Minh1() [2][3] ID {return;};        
+            func Minh22() {return;}                                       
+        

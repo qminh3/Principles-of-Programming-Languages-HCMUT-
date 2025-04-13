@@ -1,0 +1,1 @@
+Program([VarDecl(MINH,StringType,FuncCall(call,[FuncCall(a,[FuncCall(b,[FuncCall(c,[FuncCall(d,[FuncCall(e,[])])])])])]))])

@@ -1,0 +1,1 @@
+Program([ConstDecl(minh30,ArrayLiteral([IntLiteral(2),IntLiteral(3),IntLiteral(1)],StringType,[StringLiteral("minh"),StringLiteral("30"),StructLiteral(ID,[(dep,StringLiteral("trai"))])]))])

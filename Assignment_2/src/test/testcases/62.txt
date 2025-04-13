@@ -1,0 +1,1 @@
+var MINH deptrai = deptrai(ID{name: "hello", num: 6, hel: nil});

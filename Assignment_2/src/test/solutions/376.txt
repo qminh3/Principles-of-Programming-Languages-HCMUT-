@@ -1,0 +1,1 @@
+Program([StructType(MINH,[(a,IntType),(b,StringType),(c,FloatType),(d,ArrayType(IntType,[IntLiteral(3),IntLiteral(2)])),(e,Id(tuanem))],[])])

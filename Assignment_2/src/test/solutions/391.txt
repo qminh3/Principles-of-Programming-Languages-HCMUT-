@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[],VoidType,Block([VarDecl(x,StringType,StringLiteral("MINH")),VarDecl(y,IntType,IntLiteral(6)),VarDecl(z,FloatLiteral(0.5)),ConstDecl(x,FloatLiteral(3.15))]))])

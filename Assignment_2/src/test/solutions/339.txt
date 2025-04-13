@@ -1,0 +1,1 @@
+Program([ConstDecl(h1,FuncCall(substring,[StringLiteral("hello"),IntLiteral(1),IntLiteral(3)]))])

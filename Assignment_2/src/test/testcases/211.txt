@@ -1,0 +1,3 @@
+
+            const Minh = b.c() + 2;
+        

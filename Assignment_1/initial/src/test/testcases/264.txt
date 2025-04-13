@@ -1,0 +1,9 @@
+func main() {
+            var i int;
+            var j int;
+            for i := 0; i < 3; i := i + 1 {
+                for j := 0; j < 3; j := j + 1 {
+                    putIntLn(i * 10 + j);
+                }
+            }
+        };

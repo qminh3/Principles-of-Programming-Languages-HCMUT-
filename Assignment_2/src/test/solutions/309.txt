@@ -1,0 +1,1 @@
+Program([ConstDecl(d,FuncCall(divide,[IntLiteral(5),IntLiteral(3)]))])

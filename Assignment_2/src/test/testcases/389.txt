@@ -1,0 +1,14 @@
+
+        func foo() {
+            break;
+            continue;
+            break;
+            for i < 10{
+                for i < 10{
+                    for a[a[a[a[a[a[a[a[1]]]]]]]].d.k.e.c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(C(c(c()))))))))))))))))))){
+                        return new;
+                    }
+                }
+            }
+        }
+        

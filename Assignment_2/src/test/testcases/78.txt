@@ -1,0 +1,6 @@
+
+        type MINH interface {
+            Add (x int, y float, c string);
+            Sub (x, y int);
+        }
+        

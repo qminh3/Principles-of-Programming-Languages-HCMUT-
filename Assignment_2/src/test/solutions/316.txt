@@ -1,0 +1,1 @@
+Program([ConstDecl(k,FuncCall(max,[FuncCall(min,[IntLiteral(1),IntLiteral(2)]),FuncCall(max,[IntLiteral(3),IntLiteral(4)])]))])

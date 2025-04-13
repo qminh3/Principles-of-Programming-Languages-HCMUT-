@@ -1,0 +1,8 @@
+type Student struct {
+            name string;
+            grades [5]float;
+        };
+        func main() {
+            var s Student;
+            s.grades[0] := 8.5;
+        };

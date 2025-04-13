@@ -1,0 +1,1 @@
+Program([ConstDecl(t,FuncCall(is_equal,[BooleanLiteral(true),BooleanLiteral(false)]))])

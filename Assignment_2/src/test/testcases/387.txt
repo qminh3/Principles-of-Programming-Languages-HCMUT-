@@ -1,0 +1,22 @@
+
+        
+        func quickSort(arr [10]int, left int, right int) {
+            if (left >= right) {return;}
+            var pivot = arr[(left + right) / 2];
+            var i = left;
+            var j = right;
+            for i <= j {
+                for arr[i] < pivot {i += 1;}
+                for arr[j] > pivot {j -= 1;}
+                if (i <= j) {
+                    var temp = arr[i];
+                    arr[i] := arr[j];
+                    arr[j] := temp;
+                    i += 1;
+                    j -= 1;
+                }
+            }
+            quickSort(arr, left, j);
+            quickSort(arr, i, right);
+        }
+        

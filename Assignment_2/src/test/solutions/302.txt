@@ -1,0 +1,1 @@
+Program([ConstDecl(y,FuncCall(bar,[FloatLiteral(2.5),BooleanLiteral(true),StringLiteral("hello")]))])

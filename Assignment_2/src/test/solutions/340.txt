@@ -1,0 +1,1 @@
+Program([ConstDecl(i1,FuncCall(index_of,[StringLiteral("hello"),StringLiteral("e")]))])

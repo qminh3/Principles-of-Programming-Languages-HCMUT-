@@ -1,0 +1,6 @@
+
+        func MINH(){
+            var b int;
+            const PI = 3.14;
+        }
+        

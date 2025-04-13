@@ -1,0 +1,3 @@
+var a int = 100;
+        var b float = 2.718;
+        var c string = "world";

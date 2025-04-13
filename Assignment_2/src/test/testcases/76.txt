@@ -1,0 +1,9 @@
+
+        type MINH struct {
+            a int;
+            b string;
+            c float;
+            d [3][2]int;
+            e tuanem;
+        }
+        

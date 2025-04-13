@@ -1,0 +1,5 @@
+
+            var x int = go() + 3 / 4;
+            var y = "Hello" / 4;   
+            var z str;
+        

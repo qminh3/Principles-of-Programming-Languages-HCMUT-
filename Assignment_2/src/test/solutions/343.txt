@@ -1,0 +1,1 @@
+Program([ConstDecl(l1,FuncCall(is_odd,[IntLiteral(5)]))])

@@ -1,0 +1,1 @@
+const i1 = index_of( "hello", "e" ); 

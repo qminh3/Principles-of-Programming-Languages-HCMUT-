@@ -1,0 +1,1 @@
+const minh30 = [2][3][1] string {"minh", "30", ID{dep: "trai"}};

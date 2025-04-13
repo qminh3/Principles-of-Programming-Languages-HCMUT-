@@ -1,0 +1,5 @@
+func printPoint(p Point) void {
+            putFloat(p.x);
+            putString(", ");
+            putFloatLn(p.y);
+        };

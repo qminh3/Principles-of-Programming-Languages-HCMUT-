@@ -1,0 +1,15 @@
+func main() {
+            var i int = 0;
+            var count int = 0;
+            
+                i := i + 1;
+                if (i == 3) {
+                    continue;
+                }
+                if (i == 8) {
+                    break;
+                }
+                count := count + i;
+            
+            putIntLn(count);
+        };

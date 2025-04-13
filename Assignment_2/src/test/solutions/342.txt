@@ -1,0 +1,1 @@
+Program([ConstDecl(k1,FuncCall(mod,[IntLiteral(10),IntLiteral(3)]))])

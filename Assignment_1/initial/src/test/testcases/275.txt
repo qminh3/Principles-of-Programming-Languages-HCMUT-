@@ -1,0 +1,10 @@
+func foo() {
+            putIntLn(100);
+        }
+        func bar() {
+            putIntLn(200);
+        }
+        func main() {
+            foo();
+            bar();
+        };

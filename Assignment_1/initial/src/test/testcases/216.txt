@@ -1,0 +1,12 @@
+type BankAccount struct {
+            balance int;
+        }
+        func (acc BankAccount) deposit(amount int) int {
+            acc.balance += amount;
+            return acc.balance;
+        }
+        func main() {
+            var account BankAccount = BankAccount{balance: 100};
+            var newBalance int = account.deposit(50);
+            putIntLn(newBalance);
+        };

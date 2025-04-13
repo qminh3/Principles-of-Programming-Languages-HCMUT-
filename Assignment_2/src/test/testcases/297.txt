@@ -1,0 +1,9 @@
+type Point struct {
+            x float;
+            y float;
+        };
+        func main() {
+            var p Point;
+            p.x := 1.0;
+            p.y := 2.0;
+        };

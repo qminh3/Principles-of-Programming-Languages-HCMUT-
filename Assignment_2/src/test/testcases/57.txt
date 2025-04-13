@@ -1,0 +1,1 @@
+const minh30 = d || e && p || t && r || a && i;

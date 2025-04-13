@@ -1,0 +1,10 @@
+
+        func MINH(){
+            var b int;
+            const PI = 3.14;
+            const minh30 = MINH.deptrai();
+            var MINH string = call(a(b(c(d(e())))));
+            var MINH string = a([2]int{a}).b([2]int{a}).c([2]int{a}).d([2]int{a});
+            const minh30 = [3][2][4] MINH {{{{{{{{{"minh30"}}}}}}}}};
+        }
+        

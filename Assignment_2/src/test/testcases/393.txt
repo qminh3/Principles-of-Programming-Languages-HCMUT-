@@ -1,0 +1,11 @@
+
+        func foo() {
+           const b = 5;
+           const b = 5;
+           const b = 5;
+           const b = 5;
+           const b = 5;
+           const b = 5;
+           print(b, b, b)
+        }
+        

@@ -1,0 +1,3 @@
+func main() {
+            var b bool = true && false || true;
+        };

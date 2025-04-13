@@ -1,0 +1,1 @@
+Program([ConstDecl(c,FuncCall(mul,[Id(a),Id(b)]))])

@@ -1,0 +1,5 @@
+
+        func foo() {
+            a[a[a[a[a[a[a[a[1]]]]]]]].d.k.e.c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(C(c(c())))))))))))))))))));
+        }
+        

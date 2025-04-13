@@ -1,0 +1,4 @@
+func main() {
+            var result bool = (a > b) && (c < d) || !(e == f) && (g >= h);
+            var value int = (a + b) * c / (d - e) % f;
+        };

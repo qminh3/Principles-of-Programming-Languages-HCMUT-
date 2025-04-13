@@ -1,0 +1,3 @@
+func main() {
+            putIntLn(foo(bar(2)));
+        };

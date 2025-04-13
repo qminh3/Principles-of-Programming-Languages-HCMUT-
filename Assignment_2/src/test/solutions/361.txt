@@ -1,0 +1,1 @@
+Program([VarDecl(MINH,StringType,FuncCall(call,[FuncCall(a,[]),FuncCall(b,[]),MethodCall(FieldAccess(FieldAccess(Id(a),v),c),b,[]),BinaryOp(BinaryOp(BinaryOp(IntLiteral(5),+,IntLiteral(3)),-,IntLiteral(1)),-,IntLiteral(5))]))])

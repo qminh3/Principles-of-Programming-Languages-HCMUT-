@@ -1,0 +1,1 @@
+Program([ConstDecl(o,FuncCall(sign,[UnaryOp(-,IntLiteral(5))]))])

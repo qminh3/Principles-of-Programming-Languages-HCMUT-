@@ -1,0 +1,1 @@
+Program([ConstDecl(i,FuncCall(concat,[StringLiteral("foo"),StringLiteral("bar")]))])

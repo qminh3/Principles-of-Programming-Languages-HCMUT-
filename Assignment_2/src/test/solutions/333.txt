@@ -1,0 +1,1 @@
+Program([ConstDecl(b1,FuncCall(floor,[FloatLiteral(3.7)]))])

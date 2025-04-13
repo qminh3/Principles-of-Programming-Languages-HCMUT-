@@ -1,0 +1,11 @@
+func main() {
+            var x int = 5;
+            var y int = 10;
+            if (x > y) {
+                putStringLn("x is greater than y");
+            } else if (x < y) {
+                putStringLn("x is less than y");
+            } else {
+                putStringLn("x is equal to y");
+            }
+        };

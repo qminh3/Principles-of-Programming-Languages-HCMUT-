@@ -1,0 +1,1 @@
+Program([ConstDecl(g1,FuncCall(lower,[StringLiteral("HELLO")]))])

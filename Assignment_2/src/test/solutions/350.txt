@@ -1,0 +1,1 @@
+Program([ConstDecl(minh30,MethodCall(Id(MINH),deptrai,[]))])

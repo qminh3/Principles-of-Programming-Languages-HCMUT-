@@ -1,0 +1,1 @@
+Program([ConstDecl(r,FuncCall(subtract,[Id(x),Id(y)]))])

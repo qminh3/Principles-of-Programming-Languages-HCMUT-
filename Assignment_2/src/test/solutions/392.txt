@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[],VoidType,Block([MethodCall(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(FieldAccess(Id(x),y),z),b),d),s),e),gv),as),sa),sfas),saga),asg),b,[ArrayCell(Id(a),[FuncCall(d,[ArrayCell(Id(c),[FuncCall(a,[ArrayCell(Id(b),[FuncCall(d,[Id(x)])])])])])])])]))])

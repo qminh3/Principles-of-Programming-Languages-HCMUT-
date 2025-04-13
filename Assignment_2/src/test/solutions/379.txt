@@ -1,0 +1,1 @@
+Program([InterfaceType(MINH,[Prototype(Add,[IntType,FloatType,StringType],VoidType),Prototype(Sub,[IntType,IntType],VoidType),Prototype(Mul,[FloatType,FloatType,FloatType,StringType],StringType),Prototype(Div,[],ArrayType(IntType,[IntLiteral(3),IntLiteral(2)])),Prototype(test,[],Id(hack))])])

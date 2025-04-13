@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[],VoidType,Block([ConstDecl(b,IntLiteral(5)),ConstDecl(b,IntLiteral(5)),ConstDecl(b,IntLiteral(5)),ConstDecl(b,IntLiteral(5)),ConstDecl(b,IntLiteral(5)),ConstDecl(b,IntLiteral(5)),FuncCall(print,[Id(b),Id(b),Id(b)])]))])

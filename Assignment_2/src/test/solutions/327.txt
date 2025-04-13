@@ -1,0 +1,1 @@
+Program([ConstDecl(v,FuncCall(concat,[StringLiteral("hello"),StringLiteral("world")]))])

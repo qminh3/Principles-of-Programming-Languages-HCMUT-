@@ -1,0 +1,1 @@
+Program([ConstDecl(val,FuncCall(nested,[FuncCall(foo,[IntLiteral(1)]),FuncCall(bar,[IntLiteral(2)])]))])

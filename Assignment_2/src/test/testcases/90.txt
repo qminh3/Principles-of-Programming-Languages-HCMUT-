@@ -1,0 +1,6 @@
+
+        func test(){
+            for index, value := range array {
+                x.append(value)
+            }   
+        };

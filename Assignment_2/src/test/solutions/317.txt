@@ -1,0 +1,1 @@
+Program([ConstDecl(l,FuncCall(max,[BinaryOp(Id(a),+,Id(b)),BinaryOp(Id(c),-,Id(d))]))])

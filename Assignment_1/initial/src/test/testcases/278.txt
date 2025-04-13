@@ -1,0 +1,6 @@
+func printArray(arr [5]int) {
+            var i int;
+            for i := 0; i < 5; i := i + 1 {
+                putIntLn(arr[i]);
+            }
+        };

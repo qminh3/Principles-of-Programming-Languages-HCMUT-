@@ -1,0 +1,1 @@
+Program([ConstDecl(funcMix,FuncCall(funcMix,[FuncCall(mix,[FuncCall(foo,[IntLiteral(1)]),FuncCall(bar,[FloatLiteral(2.2)]),FuncCall(baz,[BooleanLiteral(true)])])]))])

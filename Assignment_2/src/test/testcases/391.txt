@@ -1,0 +1,8 @@
+
+        func foo() {
+            var x string = "MINH";
+            var y int = 6;
+            var z = 0.5;
+            const x = 3.15;
+        }
+        
