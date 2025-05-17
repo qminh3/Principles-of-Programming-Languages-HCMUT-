@@ -1,0 +1,1 @@
+var a int = 1660; func main() { putInt(a);};

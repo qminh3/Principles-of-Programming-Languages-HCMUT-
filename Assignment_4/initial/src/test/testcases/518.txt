@@ -1,0 +1,1 @@
+Program([VarDecl(a,IntType,IntLiteral(2500)),FuncDecl(main,[],VoidType,Block([FuncCall(putInt,[Id(a)])]))])

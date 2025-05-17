@@ -1,0 +1,1 @@
+func main() {var a int = 125; putInt(a);};

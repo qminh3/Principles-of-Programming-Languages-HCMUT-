@@ -1,0 +1,1 @@
+var a int = 990; func main() { putInt(a);};
